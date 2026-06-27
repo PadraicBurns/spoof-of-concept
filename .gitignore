@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Xcode user data
+xcuserdata/
+*.xcuserstate
+
+# Xcode build products
+build/
+DerivedData/
+
+# Swift Package Manager
+.build/
+
+# CocoaPods
+Pods/
+
+# Fastlane screenshots and reports
+fastlane/screenshots/
+fastlane/test_output/
+
+# Archives
+*.xcarchive
